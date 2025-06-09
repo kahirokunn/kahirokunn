@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 🏆 Top Projects I've Contributed To
 
 <div align="center">
@@ -91,8 +89,6 @@
 
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -128,8 +124,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -142,8 +136,6 @@
 
 </div>
 
----
-
 ## 📈 Profile Summary
 
 <div align="center">
@@ -155,8 +147,6 @@
 ![](./profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
-
----
 
 ## 📫 Connect with me
 
