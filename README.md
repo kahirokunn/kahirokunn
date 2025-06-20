@@ -42,26 +42,17 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/appthrust/proto-toml-plugins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=proto-toml-plugins&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/cilium/cilium">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cilium&repo=cilium&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aws-ia&repo=terraform-aws-eks-blueprints&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/clastix/kamaji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clastix&repo=kamaji&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
-<a href="https://github.com/moonrepo/proto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moonrepo&repo=proto&theme=github_dark&hide_border=true" />
+<a href="https://github.com/clastix/kamaji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clastix&repo=kamaji&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/falcondev-oss/github-actions-cache-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=falcondev-oss&repo=github-actions-cache-server&theme=github_dark&hide_border=true" />
@@ -69,20 +60,29 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/appthrust/proto-toml-plugins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=proto-toml-plugins&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-fullstack-langgraph-quickstart&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/kedacore/http-add-on">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kedacore&repo=http-add-on&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/kedacore/http-add-on">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kedacore&repo=http-add-on&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/aws-load-balancer-controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=aws-load-balancer-controller&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/cncf/gitdm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cncf&repo=gitdm&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/k0sproject/k0s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
