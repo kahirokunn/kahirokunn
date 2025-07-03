@@ -72,17 +72,17 @@
 <a href="https://github.com/k0sproject/k0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aws-ia&repo=terraform-aws-eks-blueprints&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-addon-provider-helm&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-addon-provider-helm&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/projectsveltos/classifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=classifier&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/projectsveltos/register-mgmt-cluster">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=register-mgmt-cluster&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
