@@ -78,11 +78,11 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/apache/incubator-devlake-helm-chart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-devlake-helm-chart&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/projectsveltos/classifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=classifier&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/projectsveltos/register-mgmt-cluster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=register-mgmt-cluster&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
