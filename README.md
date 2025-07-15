@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm kahirokunn 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00ADD8&center=true&width=600&lines=Hi+there!+I'm+kahirokunn+👋" alt="Hi there! I'm kahirokunn - Passionate Kubernetes & Cloud Engineer" />
 
-*Passionate about building scalable web applications and cloud-native solutions*
+*Building scalable applications and cloud-native solutions*
 
 [![GitHub followers](https://img.shields.io/github/followers/kahirokunn?label=Follow&style=social)](https://github.com/kahirokunn)
 [![GitHub stars](https://img.shields.io/github/stars/kahirokunn?label=Stars&style=social)](https://github.com/kahirokunn)
