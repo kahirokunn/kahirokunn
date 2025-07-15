@@ -1,0 +1,62 @@
+name: Update CNCF Ranking
+
+on:
+  schedule:
+    # 毎週月曜日の午前9時（UTC）に実行
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      debug:
+        description: 'Enable debug mode (save screenshot)'
+        required: false
+        default: 'false'
+
+jobs:
+  update-ranking:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Personal Access Tokenを使用してプッシュ権限を付与
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Playwright
+        run: |
+          npm install playwright
+          npx playwright install chromium
+          npx playwright install-deps chromium
+
+      - name: Run ranking update script
+        env:
+          DEBUG: ${{ github.event.inputs.debug || 'false' }}
+          GITHUB_ACTOR: ${{ github.actor }}
+        run: node .github/scripts/update-cncf-ranking.js
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          git diff --exit-code README.md || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore: update CNCF contributor ranking [skip ci]"
+          git push
+
+      - name: Upload debug screenshot
+        if: always() && (github.event.inputs.debug == 'true' || failure())
+        uses: actions/upload-artifact@v4
+        with:
+          name: devstats-screenshot
+          path: devstats-debug.png
+          if-no-files-found: ignore

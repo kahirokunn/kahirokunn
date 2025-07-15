@@ -1,0 +1,15 @@
+{
+  "name": "cncf-ranking-updater",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automatically update CNCF contributor rankings in README",
+  "scripts": {
+    "update": "node .github/scripts/update-cncf-ranking.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
