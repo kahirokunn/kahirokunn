@@ -102,6 +102,13 @@
 **Sveltos Community Ambassador** (2025)
 *Recognized for contributions to the Sveltos project and Kubernetes multi-tenancy ecosystem*
 
+### 🌟 CNCF Contributions
+
+**[#19 Top CNCF Contributor in Japan](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)** (Last Year)
+*Ranked 19th among all developers in Japan for contributions across all CNCF projects*
+
+[![CNCF](https://img.shields.io/badge/CNCF-Top%2020%20Japan-262261?style=for-the-badge&logo=cncf&logoColor=white)](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)
+
 </div>
 
 ## 🛠️ Tech Stack
