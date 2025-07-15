@@ -89,6 +89,21 @@
 
 </div>
 
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+### Community Ambassador
+
+<a href="https://badgr.com/public/assertions/4cUWEQcoTSGOdKRGnlG_3w?identity__email=okinakahiro@gmail.com">
+  <img src="./assets/badges/sveltos-community-ambassador.png" alt="Sveltos Community Ambassador" width="150"/>
+</a>
+
+**Sveltos Community Ambassador** (2025)
+*Recognized for contributions to the Sveltos project and Kubernetes multi-tenancy ecosystem*
+
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages
