@@ -60,29 +60,29 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/linkerd/website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/aws-load-balancer-controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=aws-load-balancer-controller&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/cncf/gitdm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cncf&repo=gitdm&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/k0sproject/k0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-addon-provider-helm&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-addon-provider-helm&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/apache/incubator-devlake-helm-chart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-devlake-helm-chart&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/projectsveltos/classifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=classifier&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
