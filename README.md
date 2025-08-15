@@ -27,17 +27,17 @@
 <a href="https://github.com/fluxcd/flagger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fluxcd&repo=flagger&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/appthrust/capt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
+<a href="https://github.com/projectsveltos/addon-controller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=addon-controller&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/appthrust/capt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/cluster-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/projectsveltos/addon-controller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=addon-controller&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
