@@ -36,14 +36,14 @@
 <a href="https://github.com/kubernetes-sigs/cluster-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/fluxcd/flagger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fluxcd&repo=flagger&theme=github_dark&hide_border=true" />
+<a href="https://github.com/k0sproject/k0s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
+<a href="https://github.com/fluxcd/flagger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fluxcd&repo=flagger&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/aws-load-balancer-controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=aws-load-balancer-controller&theme=github_dark&hide_border=true" />
