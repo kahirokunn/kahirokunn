@@ -11,43 +11,57 @@ const SEARCH_NAME = process.env.GITHUB_ACTOR || 'kahirokunn';
 async function scrapeRanking() {
   const browser = await chromium.launch({
     headless: true,
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-blink-features=AutomationControlled",
+    ],
   });
 
-  try {
-    const page = await browser.newPage();
-    page.setDefaultTimeout(30000); // 30秒のタイムアウト
+  // 動画は常に録画し、成功時は削除・エラー時は保持する
+  const context = await browser.newContext({
+    recordVideo: { dir: "videos", size: { width: 1280, height: 720 } },
+  });
 
+  const page = await context.newPage();
+  page.setDefaultTimeout(60000); // 60秒に延長（CIでの遅延対策）
+
+  let shouldKeepVideo = false;
+  try {
     console.log("Navigating to DevStats...");
     await page.goto(DEVSTATS_URL, { waitUntil: "networkidle" });
 
-    // テーブルが表示されるまで待つ
+    // たまに表示が遅いので追加待機
     console.log("Waiting for table to load...");
-    await page.waitForSelector('[role="table"]', { timeout: 30000 });
+    await Promise.race([
+      page.waitForSelector('[role="table"]', { timeout: 60000 }),
+      page.waitForSelector("table", { timeout: 60000 }),
+    ]);
 
     // データが完全に読み込まれるまで少し待つ
-    await page.waitForTimeout(5000);
+    await page.waitForTimeout(6000);
 
     console.log(`Searching for ${SEARCH_NAME}...`);
 
     // テーブルから順位を検索
     const ranking = await page.evaluate((searchName) => {
-      // すべての行を取得
-      const rows = document.querySelectorAll('[role="row"]');
+      const byRoleRows = Array.from(document.querySelectorAll('[role="row"]'));
+      const byTableRows = Array.from(document.querySelectorAll("table tr"));
+      const rows = byRoleRows.length > 0 ? byRoleRows : byTableRows;
 
       for (let i = 0; i < rows.length; i++) {
         const row = rows[i];
 
-        // 行内のすべてのセルを取得
-        const cells = row.querySelectorAll('[role="cell"]');
+        const cellsByRole = row.querySelectorAll('[role="cell"]');
+        const cellsByTd = row.querySelectorAll("td");
+        const cells = cellsByRole.length > 0 ? cellsByRole : cellsByTd;
 
         if (cells.length >= 2) {
-          // 2番目のセル（GitHubログイン名）をチェック
           const nameCell = cells[1];
           const nameText = nameCell?.textContent?.trim();
 
           if (nameText === searchName) {
-            // 最初のセル（順位）を取得
             const rankCell = cells[0];
             const rankText = rankCell?.textContent?.trim();
 
@@ -65,15 +79,38 @@ async function scrapeRanking() {
       console.log(`Found ranking: #${ranking}`);
     } else {
       console.log("Ranking not found");
-
-      // デバッグ用：スクリーンショットを保存
       await page.screenshot({ path: "devstats-debug.png", fullPage: true });
-      console.log("Debug screenshot saved as devstats-debug.png");
+      await fs.writeFile("devstats-debug.html", await page.content());
+      console.log(
+        "Saved debug artifacts: devstats-debug.png, devstats-debug.html"
+      );
+      shouldKeepVideo = true;
     }
 
     return ranking;
+  } catch (error) {
+    shouldKeepVideo = true;
+    // 失敗時は必ずアーティファクトを残す
+    try {
+      await page.screenshot({ path: "devstats-debug.png", fullPage: true });
+      await fs.writeFile("devstats-debug.html", await page.content());
+      console.log(
+        "Saved debug artifacts on error: devstats-debug.png, devstats-debug.html"
+      );
+    } catch (e) {
+      console.warn("Failed to save debug artifacts:", e);
+    }
+    throw error;
   } finally {
+    await context.close();
     await browser.close();
+
+    // 成功時は動画を削除、失敗や未取得時は保持
+    if (!shouldKeepVideo) {
+      try {
+        await fs.rm("videos", { recursive: true, force: true });
+      } catch {}
+    }
   }
 }
 

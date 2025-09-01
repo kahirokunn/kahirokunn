@@ -1,15 +1,11 @@
 name: Update CNCF Ranking
 
 on:
-  schedule:
-    # 毎週月曜日の午前9時（UTC）に実行
-    - cron: '0 9 * * 1'
+  # github actionsからのアクセスが拒否されているので、ローカルで実行する
+  # schedule:
+  #   # 毎週月曜日の午前9時（UTC）に実行
+  #   - cron: '0 9 * * 1'
   workflow_dispatch:
-    inputs:
-      debug:
-        description: 'Enable debug mode (save screenshot)'
-        required: false
-        default: 'false'
 
 jobs:
   update-ranking:
@@ -30,12 +26,11 @@ jobs:
       - name: Install Playwright
         run: |
           npm install playwright
-          npx playwright install chromium
+          npx playwright install chfromium
           npx playwright install-deps chromium
 
       - name: Run ranking update script
         env:
-          DEBUG: ${{ github.event.inputs.debug || 'false' }}
           GITHUB_ACTOR: ${{ github.actor }}
         run: node .github/scripts/update-cncf-ranking.js
 
@@ -53,10 +48,13 @@ jobs:
           git commit -m "chore: update CNCF contributor ranking [skip ci]"
           git push
 
-      - name: Upload debug screenshot
-        if: always() && (github.event.inputs.debug == 'true' || failure())
+      - name: Upload debug artifacts on failure
+        if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: devstats-screenshot
-          path: devstats-debug.png
+          name: devstats-artifacts
+          path: |
+            devstats-debug.png
+            devstats-debug.html
+            videos/**
           if-no-files-found: ignore
