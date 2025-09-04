@@ -81,8 +81,8 @@
 <a href="https://github.com/cncf/gitdm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cncf&repo=gitdm&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/projectsveltos/event-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=event-manager&theme=github_dark&hide_border=true" />
+<a href="https://github.com/linkerd/linkerd2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=linkerd2&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
