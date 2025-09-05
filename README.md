@@ -72,8 +72,8 @@
 <a href="https://github.com/linkerd/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/fluxcd/flagger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fluxcd&repo=flagger&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
