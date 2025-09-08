@@ -45,8 +45,8 @@
 <a href="https://github.com/k0sproject/k0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes-sigs/aws-load-balancer-controller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=aws-load-balancer-controller&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/mcs-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -78,11 +78,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/cncf/gitdm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cncf&repo=gitdm&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/linkerd/linkerd2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=linkerd2&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/aws-load-balancer-controller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=aws-load-balancer-controller&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
