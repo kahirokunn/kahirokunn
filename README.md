@@ -24,11 +24,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/apache/incubator-devlake-helm-chart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-devlake-helm-chart&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/apache/incubator-devlake-helm-chart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-devlake-helm-chart&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -36,35 +36,35 @@
 <a href="https://github.com/kubernetes-sigs/cluster-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/projectsveltos/addon-controller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=addon-controller&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<div align="center">
 <a href="https://github.com/k0sproject/k0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/linkerd/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/kubernetes-sigs/mcs-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/clastix/kamaji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clastix&repo=kamaji&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/appthrust/capt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/appthrust/capt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-fullstack-langgraph-quickstart&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/projectsveltos/addon-controller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=addon-controller&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
