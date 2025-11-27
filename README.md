@@ -89,7 +89,7 @@
 
 </div>
 
-## 🏅 Achievements & Certifications
+## 🤝 Open Source Involvement
 
 <div align="center">
 
@@ -118,6 +118,16 @@ Last checked: 2025-09
 <a href="https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All">
   <img src="https://img.shields.io/badge/CNCF%20Japan-Top%2018-brightgreen?style=for-the-badge&logo=cncf" alt="CNCF Top 16 Japan"/>
 </a>
+
+### 👥 Community Roles
+
+[![Kubernetes SIGs Member](https://img.shields.io/badge/Kubernetes%20SIGs-Member-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs)
+[![Knative Member](https://img.shields.io/badge/Knative-Member-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative)
+
+### 🔍 Reviewer Roles
+
+[![Knative net-gateway-api Reviewer](https://img.shields.io/badge/Knative-net--gateway--api%20Reviewer-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative-extensions/net-gateway-api)
+[![Kubernetes SIGs Cluster Inventory API Reviewer](https://img.shields.io/badge/Kubernetes%20SIGs-cluster--inventory--api%20Reviewer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/cluster-inventory-api)
 
 </div>
 
