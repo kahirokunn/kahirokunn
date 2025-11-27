@@ -33,11 +33,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/knative-extensions/net-gateway-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/cluster-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
