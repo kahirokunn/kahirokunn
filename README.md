@@ -60,29 +60,29 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/clastix/kamaji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clastix&repo=kamaji&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/appthrust/capt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-fullstack-langgraph-quickstart&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/projectsveltos/addon-controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=addon-controller&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/cluster-api-operator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-operator&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-api-operator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-operator&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/google/cadvisor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/headlamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
