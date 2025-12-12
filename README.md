@@ -33,11 +33,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/knative-extensions/net-gateway-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/knative-extensions/net-gateway-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -45,35 +45,35 @@
 <a href="https://github.com/kubernetes-sigs/cluster-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<div align="center">
 <a href="https://github.com/kubernetes/enhancements">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/linkerd/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/kubernetes-sigs/mcs-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/appthrust/capt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-fullstack-langgraph-quickstart&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-fullstack-langgraph-quickstart&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/cluster-api-operator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-operator&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/k0sproject/k0s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
