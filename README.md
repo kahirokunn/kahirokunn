@@ -24,11 +24,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -72,17 +72,17 @@
 <a href="https://github.com/kubernetes-sigs/cluster-api-operator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-operator&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
+<a href="https://github.com/projectsveltos/helm-charts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=helm-charts&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/k0sproject/k0s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/projectsveltos/addon-controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=addon-controller&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/google/cadvisor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
