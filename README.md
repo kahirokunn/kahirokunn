@@ -54,26 +54,26 @@
 <a href="https://github.com/linkerd/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
 </a>
+<a href="https://github.com/projectsveltos/helm-charts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=helm-charts&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/mcs-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/appthrust/capt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-fullstack-langgraph-quickstart&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
+<a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-gemini&repo=gemini-fullstack-langgraph-quickstart&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/cluster-api-operator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-operator&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/projectsveltos/helm-charts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=helm-charts&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
