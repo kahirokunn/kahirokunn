@@ -69,20 +69,20 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/cluster-api-operator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-operator&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/k0sproject/k0s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/google/cadvisor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/linkerd/linkerd2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=linkerd2&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
