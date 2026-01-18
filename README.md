@@ -24,11 +24,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -36,14 +36,14 @@
 <a href="https://github.com/apache/incubator-devlake-helm-chart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-devlake-helm-chart&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/knative-extensions/net-gateway-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes/enhancements">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes/enhancements">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
+<a href="https://github.com/knative-extensions/net-gateway-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/linkerd/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
