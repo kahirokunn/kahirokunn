@@ -78,11 +78,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/google/cadvisor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/headlamp-k8s/plugins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/google/cadvisor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
