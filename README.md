@@ -51,11 +51,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/projectsveltos/helm-charts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=helm-charts&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/mcs-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/projectsveltos/helm-charts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=helm-charts&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
