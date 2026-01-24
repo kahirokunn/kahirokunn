@@ -128,6 +128,11 @@ Last checked: 2025-09
 
 [![Knative net-gateway-api Reviewer](https://img.shields.io/badge/Knative-net--gateway--api%20Reviewer-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative-extensions/net-gateway-api)
 [![Kubernetes SIGs Cluster Inventory API Reviewer](https://img.shields.io/badge/Kubernetes%20SIGs-cluster--inventory--api%20Reviewer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/cluster-inventory-api)
+[![k0smotron Reviewer](https://img.shields.io/badge/k0smotron-Reviewer-0E73B8?style=for-the-badge)](https://github.com/k0sproject/k0smotron)
+
+### 🧩 Maintainer Roles
+
+[![Headlamp Knative Plugin Maintainer](https://img.shields.io/badge/Headlamp-Knative%20Plugin%20Maintainer-2F6FEB?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/headlamp-k8s/plugins)
 
 </div>
 
