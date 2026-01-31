@@ -72,17 +72,17 @@
 <a href="https://github.com/kubernetes-sigs/cluster-api-operator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-api-operator&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/k0sproject/k0s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/headlamp-k8s/plugins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/google/cadvisor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
