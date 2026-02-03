@@ -60,11 +60,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/appthrust/capt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/headlamp-k8s/headlamp-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=headlamp-k8s&repo=headlamp-website&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/appthrust/capt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
