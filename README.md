@@ -105,8 +105,8 @@
 ### 🌟 CNCF Contributions
 
 <!-- CNCF_RANKING_START -->
-**[#16 Top CNCF Contributor in Japan](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)** (Last Year)
-*Ranked 16th among all developers in Japan contributing to CNCF projects*
+**[#15 Top CNCF Contributor in Japan](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)** (Last Year)
+*Ranked 15th among all developers in Japan contributing to CNCF projects*
 <!-- CNCF_RANKING_END -->
 
 <!--
