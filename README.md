@@ -16,73 +16,73 @@
 <!-- CONTRIB-PROJECTS:START -->
 <div align="center">
 <a href="https://github.com/k0sproject/k0smotron">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/projectsveltos/sveltos">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/apache/incubator-devlake-helm-chart">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=apache&repo=incubator-devlake-helm-chart&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-devlake-helm-chart&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes/enhancements">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/knative-extensions/net-gateway-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/gateway-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=gateway-api&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=gateway-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/linkerd/website">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=website&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/mcs-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/projectsveltos/helm-charts">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=helm-charts&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectsveltos&repo=helm-charts&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/headlamp-k8s/headlamp-website">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=headlamp-website&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=headlamp-k8s&repo=headlamp-website&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/appthrust/capt">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appthrust&repo=capt&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/headlamp-k8s/plugins">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
