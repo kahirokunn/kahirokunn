@@ -124,10 +124,13 @@ Last checked: 2025-09
 [![Kubernetes SIGs Member](https://img.shields.io/badge/Kubernetes%20SIGs-Member-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs)
 [![Knative Member](https://img.shields.io/badge/Knative-Member-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative)
 
+### ✅ Approver Roles
+
+[![Kubernetes SIGs Cluster Inventory API Approver](https://img.shields.io/badge/Kubernetes%20SIGs-cluster--inventory--api%20Approver-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/cluster-inventory-api)
+
 ### 🔍 Reviewer Roles
 
 [![Knative net-gateway-api Reviewer](https://img.shields.io/badge/Knative-net--gateway--api%20Reviewer-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative-extensions/net-gateway-api)
-[![Kubernetes SIGs Cluster Inventory API Reviewer](https://img.shields.io/badge/Kubernetes%20SIGs-cluster--inventory--api%20Reviewer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/cluster-inventory-api)
 [![k0smotron Reviewer](https://img.shields.io/badge/k0smotron-Reviewer-0E73B8?style=for-the-badge)](https://github.com/k0sproject/k0smotron)
 
 ### 🧩 Maintainer Roles
