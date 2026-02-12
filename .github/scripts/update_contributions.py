@@ -203,7 +203,7 @@ class GitHubContribUpdater:
                 cards_html.append('<div align="center">')
 
             card_html = f'''<a href="https://github.com/{owner}/{repo}">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo}&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username={owner}&repo={repo}&theme=github_dark&hide_border=true" />
 </a>'''
 
             cards_html.append(card_html)
