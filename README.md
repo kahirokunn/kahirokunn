@@ -18,14 +18,14 @@
 <a href="https://github.com/k0sproject/k0smotron">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/headlamp">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/headlamp">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/projectsveltos/sveltos">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
@@ -78,11 +78,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/headlamp-k8s/plugins">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/google/cadvisor">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
