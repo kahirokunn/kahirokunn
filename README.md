@@ -78,11 +78,11 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/knative/docs">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=docs&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/google/cadvisor">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=google&repo=cadvisor&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/k0sproject/k0s">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0s&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
