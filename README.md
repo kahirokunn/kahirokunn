@@ -72,17 +72,17 @@
 <a href="https://github.com/knative/hack">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=hack&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/headlamp-k8s/headlamp-website">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=headlamp-website&theme=github_dark&hide_border=true" />
+<a href="https://github.com/knative/infra">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=infra&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/headlamp-k8s/headlamp-website">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=headlamp-website&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/headlamp-k8s/plugins">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/knative/docs">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=docs&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
