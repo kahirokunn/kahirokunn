@@ -119,11 +119,6 @@ Last checked: 2025-09
   <img src="https://img.shields.io/badge/CNCF%20Japan-Top%2011-brightgreen?style=fort-he-badge&logo=cncf" alt="CNCF Top 11 Japan"/>
 </a>
 
-### 👥 Community Roles
-
-[![Kubernetes SIGs Member](https://img.shields.io/badge/Kubernetes%20SIGs-Member-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs)
-[![Knative Member](https://img.shields.io/badge/Knative-Member-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative)
-
 ### 🔍 Reviewer Roles
 
 [![Kubernetes SIGs Headlamp Reviewer](https://img.shields.io/badge/Kubernetes%20SIGs-Headlamp%20Reviewer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/headlamp)
