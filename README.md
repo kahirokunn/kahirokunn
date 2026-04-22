@@ -124,10 +124,6 @@ Last checked: 2025-09
 [![Kubernetes SIGs Member](https://img.shields.io/badge/Kubernetes%20SIGs-Member-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs)
 [![Knative Member](https://img.shields.io/badge/Knative-Member-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative)
 
-### ✅ Approver Roles
-
-[![Kubernetes SIGs Cluster Inventory API Approver](https://img.shields.io/badge/Kubernetes%20SIGs-cluster--inventory--api%20Approver-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/cluster-inventory-api)
-
 ### 🔍 Reviewer Roles
 
 [![Kubernetes SIGs Headlamp Reviewer](https://img.shields.io/badge/Kubernetes%20SIGs-Headlamp%20Reviewer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/headlamp)
@@ -137,6 +133,7 @@ Last checked: 2025-09
 
 ### 🧩 Maintainer Roles
 
+[![Kubernetes SIGs Cluster Inventory API Maintainer](https://img.shields.io/badge/Kubernetes%20SIGs-cluster--inventory--api%20Maintainer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/cluster-inventory-api)
 [![Headlamp Knative Plugin Maintainer](https://img.shields.io/badge/Headlamp-Knative%20Plugin%20Maintainer-2F6FEB?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/headlamp-k8s/plugins)
 
 </div>
