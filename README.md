@@ -129,7 +129,7 @@ Last checked: 2025-09
 [![Kubernetes SIGs Headlamp Reviewer](https://img.shields.io/badge/Kubernetes%20SIGs-Headlamp%20Reviewer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/headlamp)
 [![Knative net-gateway-api Reviewer](https://img.shields.io/badge/Knative-net--gateway--api%20Reviewer-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative-extensions/net-gateway-api)
 [![Knative Operations Reviewer](https://img.shields.io/badge/Knative-Operations%20Reviewer-0865AD?style=for-the-badge&logo=knative&logoColor=white)](https://github.com/knative/operator)
-[![k0smotron Reviewer](https://img.shields.io/badge/k0smotron-Reviewer-0E73B8?style=for-the-badge)](https://github.com/k0sproject/k0smotron)
+[![Cluster API k0smotron Reviewer](https://img.shields.io/badge/Cluster%20API-k0smotron%20Reviewer-4DA13E?style=for-the-badge)](https://github.com/k0sproject/k0smotron)
 
 ### 🧩 Maintainer Roles
 
