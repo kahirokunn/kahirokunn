@@ -105,18 +105,18 @@
 ### 🌟 CNCF Contributions
 
 <!-- CNCF_RANKING_START -->
-**[#11 Top CNCF Contributor in Japan](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)** (Last Year)
-*Ranked 11th among all developers in Japan contributing to CNCF projects*
+**[#10 Top CNCF Contributor in Japan](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)** (Last Year)
+*Ranked 10th among all developers in Japan contributing to CNCF projects*
 <!-- CNCF_RANKING_END -->
 
 <!--
 Note: This ranking is updated periodically.
 Future automation: Planning to implement automatic updates using GitHub Actions.
-Last checked: 2025-09
+Last checked: 2026-04
 -->
 
 <a href="https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All">
-  <img src="https://img.shields.io/badge/CNCF%20Japan-Top%2011-brightgreen?style=fort-he-badge&logo=cncf" alt="CNCF Top 11 Japan"/>
+  <img src="https://img.shields.io/badge/CNCF%20Japan-Top%2010-brightgreen?style=fort-he-badge&logo=cncf" alt="CNCF Top 10 Japan"/>
 </a>
 
 ### 🔍 Reviewer Roles
