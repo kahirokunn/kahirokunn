@@ -51,11 +51,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes/k8s.io">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=k8s.io&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes/k8s.io">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=k8s.io&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
