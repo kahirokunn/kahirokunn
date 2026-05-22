@@ -36,26 +36,26 @@
 <a href="https://github.com/knative-extensions/net-gateway-api">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/projectsveltos/sveltos">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<div align="center">
-<a href="https://github.com/sivchari/kumo">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=sivchari&repo=kumo&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes/k8s.io">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=k8s.io&theme=github_dark&hide_border=true" />
+<a href="https://github.com/projectsveltos/sveltos">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
 </a>
+<a href="https://github.com/sivchari/kumo">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=sivchari&repo=kumo&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes/k8s.io">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=k8s.io&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -78,11 +78,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/headlamp-k8s/headlamp-website">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=headlamp-website&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/appthrust/kany8s">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=appthrust&repo=kany8s&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/aws-load-balancer-controller">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=aws-load-balancer-controller&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
