@@ -69,20 +69,20 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes/org">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=org&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/knative/hack">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=hack&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/knative/infra">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=infra&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/knative/infra">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=infra&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/appthrust/kany8s">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=appthrust&repo=kany8s&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/kubernetes-sigs/aws-load-balancer-controller">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=aws-load-balancer-controller&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
