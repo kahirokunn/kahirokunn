@@ -129,6 +129,7 @@ Last checked: 2026-06
 ### 🧩 Maintainer Roles
 
 [![Kubernetes SIGs Cluster Inventory API Maintainer](https://img.shields.io/badge/Kubernetes%20SIGs-cluster--inventory--api%20Maintainer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/cluster-inventory-api)
+[![Open Cluster Management Maintainer](https://img.shields.io/badge/Open%20Cluster%20Management-Maintainer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/open-cluster-management-io)
 [![Headlamp Knative Plugin Maintainer](https://img.shields.io/badge/Headlamp-Knative%20Plugin%20Maintainer-2F6FEB?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/headlamp-k8s/plugins)
 
 </div>
