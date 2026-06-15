@@ -15,11 +15,11 @@
 
 <!-- CONTRIB-PROJECTS:START -->
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/open-cluster-management-io/managed-serviceaccount">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=managed-serviceaccount&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -63,26 +63,26 @@
 <a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/knative/hack">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=hack&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<div align="center">
 <a href="https://github.com/knative/infra">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=infra&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/appthrust/kany8s">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=appthrust&repo=kany8s&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/headlamp-k8s/plugins">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/headlamp-k8s/plugins">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/open-cluster-management-io/cluster-proxy">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=cluster-proxy&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/kro">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
