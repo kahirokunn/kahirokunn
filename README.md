@@ -51,38 +51,38 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/multicluster-runtime">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=multicluster-runtime&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/kubernetes/k8s.io">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=k8s.io&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/contributor-playground">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=contributor-playground&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/open-cluster-management-io/open-cluster-management-io.github.io">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=open-cluster-management-io.github.io&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/headlamp-k8s/plugins">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/getredash/contrib-helm-chart">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=getredash&repo=contrib-helm-chart&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/getredash/contrib-helm-chart">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=getredash&repo=contrib-helm-chart&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/suthio/redash-mcp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=suthio&repo=redash-mcp&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/linkerd/linkerd2">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=linkerd&repo=linkerd2&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
