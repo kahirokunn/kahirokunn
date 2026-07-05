@@ -15,11 +15,11 @@
 
 <!-- CONTRIB-PROJECTS:START -->
 <div align="center">
-<a href="https://github.com/open-cluster-management-io/managed-serviceaccount">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=managed-serviceaccount&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/open-cluster-management-io/cluster-proxy">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=cluster-proxy&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/open-cluster-management-io/managed-serviceaccount">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=managed-serviceaccount&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -51,11 +51,11 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/kueue">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kueue&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/kubernetes/k8s.io">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=k8s.io&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
