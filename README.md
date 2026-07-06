@@ -36,23 +36,23 @@
 <a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
+<a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/k0sproject/k0smotron">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes-sigs/kro">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/kro">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/kueue">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kueue&theme=github_dark&hide_border=true" />
