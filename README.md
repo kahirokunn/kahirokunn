@@ -81,8 +81,8 @@
 <a href="https://github.com/getredash/contrib-helm-chart">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=getredash&repo=contrib-helm-chart&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/suthio/redash-mcp">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=suthio&repo=redash-mcp&theme=github_dark&hide_border=true" />
+<a href="https://github.com/knative-extensions/net-gateway-api">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
