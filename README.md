@@ -18,17 +18,17 @@
 <a href="https://github.com/open-cluster-management-io/cluster-proxy">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=cluster-proxy&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/projectsveltos/sveltos">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
