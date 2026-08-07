@@ -27,23 +27,14 @@
 <a href="https://github.com/projectsveltos/sveltos">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<div align="center">
 <a href="https://github.com/suthio/redash-mcp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=suthio&repo=redash-mcp&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes/enhancements">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/sig-multicluster-site">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=sig-multicluster-site&theme=github_dark&hide_border=true" />
+<a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
@@ -60,11 +51,20 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes/enhancements">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/kro">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/mcs-api">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=mcs-api&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/open-cluster-management-io/enhancements">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -81,8 +81,8 @@
 <a href="https://github.com/open-cluster-management-io/addon-framework">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=addon-framework&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/open-cluster-management-io/enhancements">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
+<a href="https://github.com/knative-extensions/net-gateway-api">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
