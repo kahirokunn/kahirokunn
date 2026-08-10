@@ -33,20 +33,20 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/k0sproject/k0smotron">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/k0sproject/k0smotron">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/headlamp-k8s/plugins">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/knative/operator">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=operator&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -81,8 +81,8 @@
 <a href="https://github.com/open-cluster-management-io/addon-framework">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=addon-framework&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes/enhancements">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
+<a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
