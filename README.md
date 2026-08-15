@@ -27,14 +27,14 @@
 <a href="https://github.com/projectsveltos/sveltos">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
+<a href="https://github.com/knative-extensions/eventing-natss">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=eventing-natss&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/knative-extensions/eventing-natss">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=eventing-natss&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/open-cluster-management-io/enhancements">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
