@@ -36,53 +36,53 @@
 <a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
+<a href="https://github.com/cloudevents/sdk-javascript">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cloudevents&repo=sdk-javascript&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/open-cluster-management-io/enhancements">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/k0sproject/k0smotron">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/knative/operator">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=operator&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/kro">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/open-cluster-management-io/managed-serviceaccount">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=managed-serviceaccount&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/headlamp-k8s/plugins">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=headlamp-k8s&repo=plugins&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/kubernetes/enhancements">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes/enhancements">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/knative-extensions/net-gateway-api">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/argoproj/argo-cd">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj&repo=argo-cd&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
