@@ -42,20 +42,20 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/knative/operator">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=operator&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/open-cluster-management-io/enhancements">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/k0sproject/k0smotron">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/k0sproject/k0smotron">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/headlamp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/knative/operator">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=operator&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
