@@ -14,6 +14,9 @@ import sys
 from typing import List, Dict, Tuple
 from datetime import datetime, timedelta, timezone
 
+# All repositories owned by these organizations are omitted from Top Projects.
+EXCLUDED_ORGANIZATIONS = {'ka-nabellinc'}
+
 class GitHubContribUpdater:
     def __init__(self, username: str, token: str):
         self.username = username
@@ -169,7 +172,10 @@ class GitHubContribUpdater:
 
         # Score calculation (evaluate only own contributions)
         scored_projects = []
-        for repo_key, data in project_scores.items():
+        for data in project_scores.values():
+            if data['owner'].lower() in EXCLUDED_ORGANIZATIONS:
+                continue
+
             # Calculate score based only on own contributions
             contribution_score = (
                 data['pr_count'] * 10 +           # PR creation: 10 points
