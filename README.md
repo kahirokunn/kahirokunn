@@ -93,7 +93,14 @@
 
 <div align="center">
 
-### Community Ambassador
+### Community Ambassadors
+
+<a href="https://www.credly.com/badges/79240156-34fa-4ece-917d-ed3ff481a036/public_url">
+  <img src="./assets/badges/cncf-ambassador-2026-2028.png" alt="CNCF Ambassador: 2026 - 2028" width="150"/>
+</a>
+
+**CNCF Ambassador** (2026–2028)
+*Advocating for CNCF projects and helping grow the cloud native and open source community*
 
 <a href="https://badgr.com/public/assertions/4cUWEQcoTSGOdKRGnlG_3w?identity__email=okinakahiro@gmail.com">
   <img src="./assets/badges/sveltos-community-ambassador.png" alt="Sveltos Community Ambassador" width="150"/>
