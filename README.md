@@ -112,8 +112,8 @@
 ### 🌟 CNCF Contributions
 
 <!-- CNCF_RANKING_START -->
-**[#9 Top CNCF Contributor in Japan](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)** (Last Year)
-*Ranked 9th among all developers in Japan contributing to CNCF projects*
+**[#8 Top CNCF Contributor in Japan](https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All)** (Last Year)
+*Ranked 8th among all developers in Japan contributing to CNCF projects*
 <!-- CNCF_RANKING_END -->
 
 <!--
@@ -123,7 +123,7 @@ Last checked: 2026-09
 -->
 
 <a href="https://all.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20year&var-country_name=Japan&var-repogroup_name=All&var-metric=contributions&var-companies=All">
-  <img src="https://img.shields.io/badge/CNCF%20Japan-Top%209-brightgreen?style=fort-he-badge&logo=cncf" alt="CNCF Top 9 Japan"/>
+  <img src="https://img.shields.io/badge/CNCF%20Japan-Top%208-brightgreen?style=fort-he-badge&logo=cncf" alt="CNCF Top 8 Japan"/>
 </a>
 
 ### 🔍 Reviewer Roles
