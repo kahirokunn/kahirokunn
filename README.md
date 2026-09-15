@@ -93,6 +93,16 @@
 
 <div align="center">
 
+### Kubernetes SIG Leadership
+
+<a href="https://github.com/kubernetes/community">
+  <img src="./assets/logos/kubernetes.svg" alt="Kubernetes" width="150"/>
+</a>
+
+**[SIG UI Chair](https://github.com/kubernetes/community/tree/main/sig-ui)**
+
+*Coordinating SIG UI and supporting the community behind Kubernetes user interfaces*
+
 ### Community Ambassadors
 
 <a href="https://www.credly.com/badges/79240156-34fa-4ece-917d-ed3ff481a036/public_url">
@@ -100,6 +110,7 @@
 </a>
 
 **CNCF Ambassador** (2026–2028)
+
 *Advocating for CNCF projects and helping grow the cloud native and open source community*
 
 <a href="https://badgr.com/public/assertions/4cUWEQcoTSGOdKRGnlG_3w?identity__email=okinakahiro@gmail.com">
@@ -107,6 +118,7 @@
 </a>
 
 **Sveltos Community Ambassador** (2025)
+
 *Recognized for contributions to the Sveltos project and Kubernetes multi-tenancy ecosystem*
 
 ### 🌟 CNCF Contributions
