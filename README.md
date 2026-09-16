@@ -81,8 +81,8 @@
 <a href="https://github.com/grafana/mcp-grafana">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=grafana&repo=mcp-grafana&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/knative-extensions/net-gateway-api">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=net-gateway-api&theme=github_dark&hide_border=true" />
+<a href="https://github.com/cncf/foundation">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cncf&repo=foundation&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
