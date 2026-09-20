@@ -7,6 +7,22 @@
 [![GitHub followers](https://img.shields.io/github/followers/kahirokunn?label=Follow&style=social)](https://github.com/kahirokunn)
 [![GitHub stars](https://img.shields.io/github/stars/kahirokunn?label=Stars&style=social)](https://github.com/kahirokunn)
 
+<a href="https://www.credly.com/badges/79240156-34fa-4ece-917d-ed3ff481a036/public_url">
+  <img src="./assets/badges/cncf-ambassador-2026-2028.png" alt="CNCF Ambassador: 2026 - 2028" width="120"/>
+</a>
+<a href="https://badgr.com/public/assertions/4cUWEQcoTSGOdKRGnlG_3w?identity__email=okinakahiro@gmail.com">
+  <img src="./assets/badges/sveltos-community-ambassador.png" alt="Sveltos Community Ambassador" width="120"/>
+</a>
+<a href="https://www.credly.com/badges/88cc7354-c72d-4c67-a349-3bcc76da0bde/public_url">
+  <img src="./assets/badges/speaker-kubecon-cloudnativecon-japan-2026.png" alt="Speaker: KubeCon + CloudNativeCon Japan 2026" width="120"/>
+</a>
+<a href="https://www.credly.com/badges/5c679129-8eec-4afb-ab4c-c4f6744ae23d/public_url">
+  <img src="./assets/badges/organizer-japan-community-day.png" alt="Organizer - Japan Community Day" width="120"/>
+</a>
+<a href="https://www.credly.com/badges/4f68c0c3-4971-4dde-9bf4-e7f08de3ff26/public_url">
+  <img src="./assets/badges/speaker-japan-community-day.png" alt="Speaker - Japan Community Day" width="120"/>
+</a>
+
 </div>
 
 ## 🏆 Top Projects I've Contributed To
@@ -105,19 +121,11 @@
 
 ### Community Ambassadors
 
-<a href="https://www.credly.com/badges/79240156-34fa-4ece-917d-ed3ff481a036/public_url">
-  <img src="./assets/badges/cncf-ambassador-2026-2028.png" alt="CNCF Ambassador: 2026 - 2028" width="150"/>
-</a>
-
-**CNCF Ambassador** (2026–2028)
+**[CNCF Ambassador](https://www.credly.com/badges/79240156-34fa-4ece-917d-ed3ff481a036/public_url)** (2026–2028)
 
 *Advocating for CNCF projects and helping grow the cloud native and open source community*
 
-<a href="https://badgr.com/public/assertions/4cUWEQcoTSGOdKRGnlG_3w?identity__email=okinakahiro@gmail.com">
-  <img src="./assets/badges/sveltos-community-ambassador.png" alt="Sveltos Community Ambassador" width="150"/>
-</a>
-
-**Sveltos Community Ambassador** (2025)
+**[Sveltos Community Ambassador](https://badgr.com/public/assertions/4cUWEQcoTSGOdKRGnlG_3w?identity__email=okinakahiro@gmail.com)** (2025)
 
 *Recognized for contributions to the Sveltos project and Kubernetes multi-tenancy ecosystem*
 
