@@ -49,20 +49,20 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes/enhancements">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/kubernetes-sigs/headlamp">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes-sigs/headlamp">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=headlamp&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/cloudevents/sdk-javascript">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cloudevents&repo=sdk-javascript&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/kubernetes/enhancements">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
