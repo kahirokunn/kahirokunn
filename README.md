@@ -67,11 +67,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/cloudevents/sdk-javascript">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cloudevents&repo=sdk-javascript&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/k0sproject/k0smotron">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/cloudevents/sdk-javascript">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cloudevents&repo=sdk-javascript&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
