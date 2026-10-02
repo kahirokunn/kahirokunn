@@ -85,20 +85,20 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/envoyproxy/gateway">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=envoyproxy&repo=gateway&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes-sigs/kro">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/cloudevents/sdk-javascript">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cloudevents&repo=sdk-javascript&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
+<a href="https://github.com/cloudevents/sdk-javascript">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cloudevents&repo=sdk-javascript&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/open-cluster-management-io/community">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=community&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/grafana/mcp-grafana">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=grafana&repo=mcp-grafana&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
