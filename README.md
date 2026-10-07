@@ -67,29 +67,29 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/k0sproject/k0smotron">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/suthio/redash-mcp">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=suthio&repo=redash-mcp&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/kubernetes/community">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=community&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/envoyproxy/gateway">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=envoyproxy&repo=gateway&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/kubernetes-sigs/kro">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/kubernetes-sigs/kro">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/knative/eventing">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=eventing&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/k0sproject/k0smotron">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=k0sproject&repo=k0smotron&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
