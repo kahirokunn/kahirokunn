@@ -43,23 +43,23 @@
 <a href="https://github.com/kubernetes/enhancements">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
+<a href="https://github.com/open-cluster-management-io/ocm">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=ocm&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/cluster-inventory-api">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=cluster-inventory-api&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/projectsveltos/sveltos">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/open-cluster-management-io/enhancements">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
-<a href="https://github.com/open-cluster-management-io/ocm">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=ocm&theme=github_dark&hide_border=true" />
+<a href="https://github.com/open-cluster-management-io/enhancements">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/open-cluster-management-io/community">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=community&theme=github_dark&hide_border=true" />
