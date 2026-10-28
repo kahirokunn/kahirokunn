@@ -31,6 +31,15 @@
 
 <!-- CONTRIB-PROJECTS:START -->
 <div align="center">
+<a href="https://github.com/knative-extensions/eventing-natss">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=eventing-natss&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/open-cluster-management-io/ocm">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=ocm&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes/enhancements">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
@@ -40,29 +49,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/open-cluster-management-io/ocm">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=ocm&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/argoproj-labs/clusterprofile-integration-for-argocd">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=argoproj-labs&repo=clusterprofile-integration-for-argocd&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
-<a href="https://github.com/knative-extensions/eventing-natss">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative-extensions&repo=eventing-natss&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/projectsveltos/sveltos">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<div align="center">
 <a href="https://github.com/open-cluster-management-io/enhancements">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=enhancements&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/suthio/redash-mcp">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=suthio&repo=redash-mcp&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -70,8 +61,17 @@
 <a href="https://github.com/cloudevents/sdk-javascript">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=cloudevents&repo=sdk-javascript&theme=github_dark&hide_border=true" />
 </a>
+<a href="https://github.com/projectsveltos/sveltos">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=projectsveltos&repo=sveltos&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes/k8s.io">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=k8s.io&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/suthio/redash-mcp">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=suthio&repo=redash-mcp&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
@@ -85,20 +85,20 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/open-cluster-management-io/cluster-proxy">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=cluster-proxy&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/open-cluster-management-io/api">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=api&theme=github_dark&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes/community">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=community&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/envoyproxy/gateway">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=envoyproxy&repo=gateway&theme=github_dark&hide_border=true" />
-</a>
-</div>
-
-<div align="center">
-<a href="https://github.com/kubernetes-sigs/kro">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/knative/eventing">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=eventing&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
