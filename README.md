@@ -76,29 +76,29 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/kubernetes/community">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=community&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/kubernetes/enhancements">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes&repo=enhancements&theme=github_dark&hide_border=true" />
 </a>
+</div>
+
+<div align="center">
 <a href="https://github.com/kubernetes-sigs/kro">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=kubernetes-sigs&repo=kro&theme=github_dark&hide_border=true" />
 </a>
-</div>
-
-<div align="center">
 <a href="https://github.com/knative/eventing">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=eventing&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/open-cluster-management-io/community">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=community&theme=github_dark&hide_border=true" />
-</a>
 </div>
 
 <div align="center">
+<a href="https://github.com/open-cluster-management-io/community">
+  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=community&theme=github_dark&hide_border=true" />
+</a>
 <a href="https://github.com/open-cluster-management-io/managed-serviceaccount">
   <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=open-cluster-management-io&repo=managed-serviceaccount&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/knative/docs">
-  <img align="center" src="https://readme-stats-fast.vercel.app/api/pin/?username=knative&repo=docs&theme=github_dark&hide_border=true" />
 </a>
 </div>
 <!-- CONTRIB-PROJECTS:END -->
