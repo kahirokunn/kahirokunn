@@ -119,6 +119,12 @@
 
 *Coordinating SIG UI and supporting the community behind Kubernetes user interfaces*
 
+### 🏆 Kubernetes Contributor Awards
+
+**[2026 Kubernetes Contributor Award — SIG Multicluster](https://www.kubernetes.dev/community/awards/2026/#multicluster)**
+
+*Recognized by the SIG Multicluster chairs for keeping the SIG's work relevant to end users and for insisting on doing things the right way*
+
 ### Community Ambassadors
 
 **[CNCF Ambassador](https://www.credly.com/badges/79240156-34fa-4ece-917d-ed3ff481a036/public_url)** (2026–2028)
